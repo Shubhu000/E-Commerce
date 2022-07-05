@@ -1,0 +1,14 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const ADD_TO_CART_SUCCESS = "ADD_TO_CART_SUCCESS";
+export const ADD_TO_CART_ERROR = "ADD_TO_CART_ERROR";
+
+export const REMOVE_CART_ITEM = "REMOVE_CART_ITEM";
+
+export const PRICE_PRODUCT = "PRICE_PRODUCT";
+
+export const INCEMENT_QTY = "INCEMENT_QTY";
+
+export const DECEMENT_QTY = "DECEMENT_QTY";
+
+export const ADD_TO_FAVOURITE = "ADD_TO_FAVOURITE";
+export const REMOVE_FROM_FAVOURITE = "REMOVE_FROM_FAVOURITE";
